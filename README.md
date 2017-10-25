@@ -1,3 +1,15 @@
-# movie_search_app
+# Zooming Movie Search 
 
-Node.js app using Express 4.
+Built using Node.js and Express 4.
+
+  Install dependencies:
+
+```bash
+$ npm install
+```
+
+  Start the server:
+
+```bash
+$ npm start
+```
